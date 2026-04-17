@@ -1,4 +1,16 @@
-# wordly-Projects
+# worldly-Projects
 Line 1 Wordley is a website that is used as a search engine, where you can search for words and get their meaning and pronunciation.
-Line 2 In order to use Wordley, you have to click on the link provided.
-Line 3 Using Wordley is easy: just type a word in the input box and press Enter on your keyboard, and it should display the word's meaning and pronunciation.
+## live demo
+To have access to Wordly, you can copy and paste this link 👉https://github.com/njambi101/wordly-Projects/settings/pages.
+## Features
+**Instant search:** Get the definition as quickly as possible.
+**audio pronunciation** Listen to how the words are pronounced.
+**clean UI** simple and responsive design for all devices.💡💡
+
+##🔨⛏️ Built with.
+**HTML**-for structure and layout.
+**CSS**-for styling and responsiveness.
+**Javascript**-for logic and API integration.
+
+
+
